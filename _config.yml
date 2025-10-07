@@ -1,0 +1,115 @@
+---
+booktitle: 'Proceedings on "I Can''t Believe It''s Not Better: Challenges in Applied
+  Deep Learning" at ICLR 2025 Workshops'
+year: '2025'
+shortname: ICBINB 25
+volume: '296'
+start: &1 2025-04-28
+end: 2025-04-28
+published: 2025-08-12
+conference_number: '5'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: icbinb-2023
+month: 0
+cycles: false
+bibtex_editor: Blaas, Arno and D'Costa, Priya and Feng, Fan and Kriegler, Andreas
+  and Mason, Ian and Pan, Zhaoying and Uelwer, Tobias and Williams, Jennifer and Xie,
+  Yubin and Yang, Rui
+editor:
+- given: Arno
+  family: Blaas
+- given: Priya
+  family: D’Costa
+- given: Fan
+  family: Feng
+- given: Andreas
+  family: Kriegler
+- given: Ian
+  family: Mason
+- given: Zhaoying
+  family: Pan
+- given: Tobias
+  family: Uelwer
+- given: Jennifer
+  family: Williams
+- given: Yubin
+  family: Xie
+- given: Rui
+  family: Yang
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings on "I Can't Believe It's Not Better: Challenges in Applied Deep Learning" at ICLR 2025 Workshops
+    Held in Singapore on 28 April 2025
+
+  Published as Volume 296 by the Proceedings of Machine Learning Research on 12 August 2025.
+
+  Volume Edited by:
+    Arno Blaas
+    Priya D’Costa
+    Fan Feng
+    Andreas Kriegler
+    Ian Mason
+    Zhaoying Pan
+    Tobias Uelwer
+    Jennifer Williams
+    Yubin Xie
+    Rui Yang
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 28 Apr
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v296"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v296
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v296
+email: ''
+conference:
+  name: 'Proceedings on "I Can''t Believe It''s Not Better: Challenges in Applied
+    Deep Learning" at ICLR 2025 Workshops'
+  url: https://sites.google.com/view/icbinb-2025/
+  location: Singapore
+  dates:
+  - *1
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: icbinb25_cleaned_clean.bib
+# Site settings
+# Original source:  icbinb25_cleaned_clean.bib
