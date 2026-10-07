@@ -4,7 +4,7 @@ booktitle: 'Proceedings on "I Can''t Believe It''s Not Better: Challenges in App
 year: '2025'
 shortname: ICBINB 25
 volume: '296'
-start: &1 2025-04-28
+start: 2025-04-28
 end: 2025-04-28
 published: 2025-08-12
 conference_number: '5'
@@ -97,7 +97,7 @@ conference:
   url: https://sites.google.com/view/icbinb-2025/
   location: Singapore
   dates:
-  - *1
+  - 2025-04-28
 analytics:
   google:
     tracking_id: UA-92432422-1
